@@ -1,3 +1,21 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea
 
+/generatorSqlmapCustom2mysql/*.iml
+/generatorSqlmapCustom2oracle/*.iml
+/pagehelper/*.iml
+/pagehelper/src/main/*.iml
+/taotao-common/src/main/*.iml
+/taotao-manager/taotao-manager-mapper/src/main/*.iml
+/taotao-manager/taotao-manager-pojo/src/main/*.iml
+/taotao-manager/taotao-manager-service/src/main/*.iml
+/taotao-manager/taotao-manager-web/src/main/*.iml
+/taotao-manager/taotao-manager-web/src/test/*.iml
+/taotao-order/src/main/*.iml
+/taotao-portal/src/main/*.iml
+/taotao-portal/src/test/*.iml
+/taotao-rest/src/main/*.iml
+/taotao-rest/src/test/*.iml
+/taotao-search/src/main/*.iml
+/taotao-search/src/test/*.iml
+/taotao-sso/src/main/*.iml
